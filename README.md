@@ -1,1 +1,1 @@
-# Webpage
+Created a demo multi-page website featuring Home, Registration, and Login sections using HTML, CSS, and Bootstrap. Built to showcase UI design, form structure, and clean page layout without any backend integration.
